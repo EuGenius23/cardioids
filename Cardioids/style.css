@@ -1,0 +1,11 @@
+html, body {
+	background-color:White;
+  margin: 10px;
+  padding: 10px;
+}
+canvas {
+  display: block;
+}
+address {
+	float: right;
+}
